@@ -8,15 +8,15 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker and Websockets**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Firefox is actually a red panda!**
 
- </div> -->
+ </div>
  
 <div align="center"> 
   <a href="mailto:kinjaldas2206@gmail.com">
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kdjayyyy/kdjayyyy/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
