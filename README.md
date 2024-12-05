@@ -1,4 +1,4 @@
-<img style="float: right;" src="https://visitor-badge.1aobi.icu/badge?page_id=kdjayyyy.kdjayyyy" />
+<img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=kdjayyyy.kdjayyyy" />
 
 <h1 style="float: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kinjal+Das!;" />
@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Docker and Websockets**
+ 🌱 I'm currently learning **Docker and Websockets**
 
 ⚡ Fun fact **Firefox is actually a red panda!**
 
@@ -20,14 +20,14 @@
  
 <div align="center"> 
   <a href="mailto:kinjaldas2206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/kinjal-das-38ab7122b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <!-- <a href="https://kdjayyyy.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+  </a> -->
 </div>
 
  <hr/>
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git"/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,mysql,postgresql,spring" /><br>
 </div>
 
@@ -55,10 +55,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kdjayyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kdjayyyy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdjayyyy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
