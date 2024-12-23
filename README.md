@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I'm currently learning **Docker and Websockets**
+ 🌱 I'm currently learning about **Websockets and Next.js**
 
 ⚡ Fun fact **Firefox is actually a red panda!**
 
